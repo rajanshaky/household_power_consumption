@@ -1,17 +1,19 @@
-# Job Market Pulse — Data Analytics Dashboard
+# Household Power Consumption Analysis
 
-A data analytics project that analyzes job market data and 
-visualizes insights through an interactive Power BI dashboard.
+An exploratory data analysis (EDA) project on three years of 
+household electricity consumption data to uncover seasonal 
+usage patterns and anomalies.
 
 ## Project Workflow
-CSV Data → Python (Cleaning & Transformation) → Power BI (Dashboard)
+CSV Data → Python (EDA & Analysis) → Power BI (Dashboard)
 
 ## What It Does
-- Loads and cleans job market data from CSV using Pandas
-- Transforms raw data — handling nulls and standardizing formats
-- Visualizes hiring trends, in-demand skills & salary distributions in Power BI
+- Loads and cleans household electricity consumption data
+- Performs exploratory data analysis to identify trends
+- Uncovers seasonal usage patterns and anomalies
+- Visualizes findings through an interactive Power BI dashboard
 
 ## Tools Used
-- Python (Pandas)
+- Python (Pandas, Matplotlib, Seaborn)
 - Power BI Desktop
 - Jupyter Notebook
