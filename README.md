@@ -39,7 +39,7 @@ CSV Data → Python (EDA & Visualization) → Power BI (Dashboard)
 - Spikes reaching up to 10-11 kW
 - Gaps in data confirm periods of household absence
 
-![Anomily Detection](anomilies.png)
+![Anomily Detection](anomalies.png)
 
 ### ⚡ Sub Metering Comparison
 - **Sub_metering_3** (water heater/AC) dominates energy usage
