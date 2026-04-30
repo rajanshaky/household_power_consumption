@@ -48,6 +48,12 @@ CSV Data → Python (EDA & Visualization) → Power BI (Dashboard)
 
 ![Sub Metering](assets/sub_metering.png)
 
+## 🔍 Key Insights
+
+- Identified seasonal peaks in electricity usage  
+- Detected high consumption periods during specific months  
+- Highlighted patterns that indicate inefficient energy usage  
+
 ## Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
 - Power BI Desktop
