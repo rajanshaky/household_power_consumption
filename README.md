@@ -18,35 +18,35 @@ CSV Data → Python (EDA & Visualization) → Power BI (Dashboard)
 - Clear seasonal pattern across 2 years
 - Suspicious drop around September 2008 — likely household absence
 
-![Monthly Trend](monthly_trend.png)
+![Monthly Trend](assets/monthly_trend.png)
 
 ### 🌡️ Seasonal Pattern
 - **December** has the highest consumption (~1.65 kW)
 - **August** has the lowest consumption (~0.53 kW)
 - U-shaped pattern — high in winter, low in summer, rising in autumn
 
-![Seasonal Pattern](seasonal_pattern.png)
+![Seasonal Pattern](assets/seasonal_pattern.png)
 
 ### ⏰ Peak Usage Hours
 - **Morning peak: 7-8 AM** (~1.5 kW) — morning routine
 - **Evening peak: 7-9 PM** (~2.0 kW) — highest usage of the day
 - **Lowest usage: 2-4 AM** (~0.45 kW) — household asleep
 
-![Peak Usage Hours](peak_hours.png)
+![Peak Usage Hours](assets/peak_hours.png)
 
 ### 🔴 Anomaly Detection (3-Sigma Rule)
 - 18,000+ anomalies detected out of 1M readings
 - Spikes reaching up to 10-11 kW
 - Gaps in data confirm periods of household absence
 
-![Anomily Detection](anomalies.png)
+![Anomily Detection](assets/anomalies.png)
 
 ### ⚡ Sub Metering Comparison
 - **Sub_metering_3** (water heater/AC) dominates energy usage
 - **Sub_metering_1 & 2** (kitchen & laundry) remain consistently low
 - Sub_metering_3 dips in summer — less heating required
 
-![Sub Metering](sub_metering.png)
+![Sub Metering](assets/sub_metering.png)
 
 ## Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
